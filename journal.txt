@@ -1,2 +1,4 @@
 "day1"
-"Day 2: Met aliens on Mars." 
+
+"Day 2: Witnessed the first moon landing in 1969." 
+
